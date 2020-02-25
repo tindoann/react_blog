@@ -1,9 +1,9 @@
 import React from 'react'; 
 
-const ArticlesList = () => (
+const ArticlePage = () => (
   <React.Fragment>
     <h1>This is an article</h1>
   </React.Fragment>
 ); 
 
-export default ArticlePages; 
+export default ArticlePage; 
